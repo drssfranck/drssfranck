@@ -3,7 +3,7 @@
 Bienvenue sur mon GitHub !  
 Je suis **Data Analyst & Data Engineer**, passionné par la transformation de données en insights exploitables et la création de solutions data robustes et scalables.
 
-🔗 Mon portfolio en ligne : https://franckmbe-gnw9.vercel.app/
+🔗 Mon portfolio en ligne : https://franckmbe.vercel.app/
 
 ---
 
