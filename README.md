@@ -48,14 +48,4 @@ Voici quelques idées de projets à mettre en valeur :
 📌 **Dashboard Power BI** – Visualisation interactive avec insights business  
 📌 **Projet Machine Learning** – Modèle prédictif + Notebook d’analyse
 
----
 
-## 📈 Statistiques (optionnel)
-
-➡️ Ajoute des badges de langue/outil pour rendre ton profil plus visuel :
-
-```markdown
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL‑DB‑4479A1?style=flat&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
